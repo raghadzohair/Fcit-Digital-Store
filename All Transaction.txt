@@ -1,0 +1,52 @@
+******** COMMAND: PRINT_TRANSACTIONS ********
+######################################################################
+Customer Name: Ahmad Ali
+ID: 12321
+Age: 20
+Reward Points: 35
+transaction ID: 3344	 Total Cost: 48.0
+transaction ID: 5412	 Total Cost: 105.0
+
+######################################################################
+Customer Name: Manal Salem
+ID: 12876
+Age: 25
+Reward Points: 10
+transaction ID: 3425	 Total Cost: 72.0
+transaction ID: 7890	 Total Cost: 80.0
+
+######################################################################
+Customer Name: Tareq Muhsen
+ID: 12998
+Age: 17
+Reward Points: 35
+transaction ID: 2223	 Total Cost: 105.0
+
+######################################################################
+Customer Name: Fares Ahmad
+ID: 13111
+Age: 30
+Reward Points: 30
+transaction ID: 1235	 Total Cost: 80.0
+
+######################################################################
+Customer Name: Lama Fayez
+ID: 13331
+Age: 33
+Reward Points: 25
+transaction ID: 1100	 Total Cost: 72.0
+
+######################################################################
+Customer Name: Maram Khaled
+ID: 13983
+Age: 22
+Reward Points: 31
+transaction ID: 3334	 Total Cost: 120.0
+
+######################################################################
+Customer Name: Salma Fahad
+ID: 14390
+Age: 29
+Reward Points: 23
+NONE...
+---------------------------------------------------------------------

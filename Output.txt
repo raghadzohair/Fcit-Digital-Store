@@ -1,0 +1,159 @@
+******** COMMAND: ADD_CUSTOMER ********
+Customer Name: Ahmad Ali
+ID: 12321
+Age: 20
+Reward Points: 25
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_CUSTOMER ********
+Customer Name: Manal Salem
+ID: 12876
+Age: 25
+Reward Points: 10
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_CUSTOMER ********
+Customer Name: Tareq Muhsen
+ID: 12998
+Age: 17
+Reward Points: 15
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_CUSTOMER ********
+Customer Name: Fares Ahmad
+ID: 13111
+Age: 30
+Reward Points: 30
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_CUSTOMER ********
+Customer Name: Lama Fayez
+ID: 13331
+Age: 33
+Reward Points: 25
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_CUSTOMER ********
+Customer Name: Maram Khaled
+ID: 13983
+Age: 22
+Reward Points: 21
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_CUSTOMER ********
+Customer Name: Salma Fahad
+ID: 14390
+Age: 29
+Reward Points: 23
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_SERIES ********
+Name: The_Last_Kingdom
+ Price: 80.0
+Season: 4
+---------------------------------------------------------------------
+******** COMMAND: ADD_SERIES ********
+Name: The_Crown
+ Price: 40.0
+Season: 3
+---------------------------------------------------------------------
+******** COMMAND: ADD_SERIES ********
+Name: Vikings
+ Price: 72.0
+Season: 2
+---------------------------------------------------------------------
+******** COMMAND: ADD_SERIES ********
+Name: The_Tudors
+ Price: 48.0
+Season: 4
+---------------------------------------------------------------------
+******** COMMAND: ADD_MOVIE ********
+Name: Schindler’s_List
+ Price: 130.0
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_MOVIE ********
+Name: Der_Untergang
+ Price: 80.0
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_MOVIE ********
+Name: Braveheart
+ Price: 120.0
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_DOCUMENTARY ********
+Name: Rapture
+ Price: 105.0
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_DOCUMENTARY ********
+Name: Planet_Earth
+ Price: 50.0
+
+---------------------------------------------------------------------
+******** COMMAND: ADD_DOCUMENTARY ********
+Name: The_Bible
+ Price: 80.0
+
+---------------------------------------------------------------------
+******** COMMAND: ORDER_SERIES ********
+Customer Name: Ahmad Ali
+ID: 12321
+Age: 20
+Reward Points: 25
+transaction ID: 3344	 Total Cost: 48.0
+---------------------------------------------------------------------
+******** COMMAND: ORDER_MOVIE ********
+Exception: Sorry! Your are not allowed to watch this
+
+******** COMMAND: ORDER_SERIES ********
+Customer Name: Manal Salem
+ID: 12876
+Age: 25
+Reward Points: 10
+transaction ID: 3425	 Total Cost: 72.0
+---------------------------------------------------------------------
+******** COMMAND: ORDER_DOCUMENTARY ********
+Customer Name: Tareq Muhsen
+ID: 12998
+Age: 17
+Reward Points: 35
+transaction ID: 2223	 Total Cost: 105.0
+---------------------------------------------------------------------
+******** COMMAND: ORDER_DOCUMENTARY ********
+Customer Name: Fares Ahmad
+ID: 13111
+Age: 30
+Reward Points: 30
+transaction ID: 1235	 Total Cost: 80.0
+---------------------------------------------------------------------
+******** COMMAND: ORDER_DOCUMENTARY ********
+Customer Name: Ahmad Ali
+ID: 12321
+Age: 20
+Reward Points: 35
+transaction ID: 5412	 Total Cost: 105.0
+---------------------------------------------------------------------
+******** COMMAND: ORDER_SERIES ********
+Customer Name: Lama Fayez
+ID: 13331
+Age: 33
+Reward Points: 25
+transaction ID: 1100	 Total Cost: 72.0
+---------------------------------------------------------------------
+******** COMMAND: ORDER_MOVIE ********
+Customer Name: Maram Khaled
+ID: 13983
+Age: 22
+Reward Points: 31
+transaction ID: 3334	 Total Cost: 120.0
+---------------------------------------------------------------------
+******** COMMAND: ORDER_MOVIE ********
+Customer Name: Manal Salem
+ID: 12876
+Age: 25
+Reward Points: 10
+transaction ID: 7890	 Total Cost: 80.0
+---------------------------------------------------------------------
+Thanks for using FCIT Digital System..

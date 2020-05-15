@@ -1,0 +1,31 @@
+Add_Customer Ahmad Ali 12321 20 25
+Add_Customer Manal Salem 12876 25 10
+Add_Customer Tareq Muhsen 12998 17 15
+Add_Customer Fares Ahmad 13111 30 30
+Add_Customer Lama Fayez 13331 33 25
+Add_Customer Maram Khaled 13983 22 21
+Add_Customer Salma Fahad 14390 29 23
+Add_Series The_Last_Kingdom 100 4
+Add_Series The_Crown 50 3
+Add_Series Vikings 90 2
+Add_Series The_Tudors 60 4
+Add_Movie Schindler’s_List 130
+Add_Movie Der_Untergang 80
+Add_Movie Braveheart 120
+Add_Documentary Rapture 105
+Add_Documentary Planet_Earth 50
+Add_Documentary The_Bible 80
+Order_Series 3344 The_Tudors 12321 2
+Order_Series 2345 Poldark -999 1
+Order_Movie 6789 Schindler’s_List 12998
+Order_Series 3425 Vikings 12876 1
+Order_Documentary 2223 Rapture 12998
+Order_Documentary 1235 The_Bible 13111
+Order_Documentary 5412 Rapture 12321
+Order_Documentary 7771 Bye_Bye_Car -999
+Order_Series 1100 Vikings 13331 2
+Order_Movie 3334 Braveheart 13983
+Order_Movie 6665 Defiance 14390
+Order_Movie 7890 Der_Untergang 12876
+Print_Transactions
+END
